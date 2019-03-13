@@ -30,25 +30,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		000A6B191DA7548C37C994769A088C73 /* Pods_NumericAnimatedLabel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NumericAnimatedLabel_Tests.framework; path = "Pods-NumericAnimatedLabel_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		000A6B191DA7548C37C994769A088C73 /* Pods_NumericAnimatedLabel_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NumericAnimatedLabel_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		01C1D3EFE38764C2EA1A6C348FFFF10A /* Pods-NumericAnimatedLabel_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NumericAnimatedLabel_Tests-resources.sh"; sourceTree = "<group>"; };
 		0A01E91ABE085FA829EB8689D6D00573 /* Pods-NumericAnimatedLabel_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NumericAnimatedLabel_Example-frameworks.sh"; sourceTree = "<group>"; };
 		0B07BFF0F58E8A29852F944D379430BC /* NumericAnimatedLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NumericAnimatedLabel-umbrella.h"; sourceTree = "<group>"; };
 		117D59CFE00E31F8A30DBC829C7B78CA /* Pods-NumericAnimatedLabel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NumericAnimatedLabel_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		11A3EA183BDD27D89DDA4D172386DA29 /* Pods-NumericAnimatedLabel_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NumericAnimatedLabel_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		33E0FB5CEEF3F3026B3FE1CAB331B013 /* NumericAnimatedLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = NumericAnimatedLabel.framework; path = NumericAnimatedLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		33E0FB5CEEF3F3026B3FE1CAB331B013 /* NumericAnimatedLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NumericAnimatedLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		35D7C1426FB3517A9C5111D73CED583B /* NumericAnimatedLabel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NumericAnimatedLabel.swift; path = NumericAnimatedLabel/Classes/NumericAnimatedLabel.swift; sourceTree = "<group>"; };
 		42D8FFF1ED018679DB8FD14BC9255F01 /* Pods-NumericAnimatedLabel_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NumericAnimatedLabel_Tests-dummy.m"; sourceTree = "<group>"; };
-		4D6B0CF798D642D1F4D3E7A2F7F11CAD /* NumericAnimatedLabel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = NumericAnimatedLabel.modulemap; sourceTree = "<group>"; };
+		4D6B0CF798D642D1F4D3E7A2F7F11CAD /* NumericAnimatedLabel.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = NumericAnimatedLabel.modulemap; sourceTree = "<group>"; };
 		4DA478E5E1ECCED99DAA644C25385284 /* Pods-NumericAnimatedLabel_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NumericAnimatedLabel_Example-resources.sh"; sourceTree = "<group>"; };
 		52CF7D4BF86C8FC8F1BC3B3874565B3D /* Pods-NumericAnimatedLabel_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NumericAnimatedLabel_Example-umbrella.h"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		7B8CE9E93DE09668AFE2E4A55F4327A9 /* Pods-NumericAnimatedLabel_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-NumericAnimatedLabel_Tests.modulemap"; sourceTree = "<group>"; };
-		82A20A74DAB9D851D2F13A25CF445EB5 /* Pods-NumericAnimatedLabel_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-NumericAnimatedLabel_Example.modulemap"; sourceTree = "<group>"; };
+		7B8CE9E93DE09668AFE2E4A55F4327A9 /* Pods-NumericAnimatedLabel_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-NumericAnimatedLabel_Tests.modulemap"; sourceTree = "<group>"; };
+		82A20A74DAB9D851D2F13A25CF445EB5 /* Pods-NumericAnimatedLabel_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-NumericAnimatedLabel_Example.modulemap"; sourceTree = "<group>"; };
 		834B64DD79829A62BD66151D3D9A3469 /* NumericAnimatedLabel.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = NumericAnimatedLabel.xcconfig; sourceTree = "<group>"; };
 		845CF9F88157092C6D8E1815A76F465D /* Pods-NumericAnimatedLabel_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NumericAnimatedLabel_Example-dummy.m"; sourceTree = "<group>"; };
-		88CA7DB4F02BABF893FDA7FF393389D7 /* Pods_NumericAnimatedLabel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NumericAnimatedLabel_Example.framework; path = "Pods-NumericAnimatedLabel_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		88CA7DB4F02BABF893FDA7FF393389D7 /* Pods_NumericAnimatedLabel_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NumericAnimatedLabel_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9644D5A48F9C3A2963B993CE4E430425 /* Pods-NumericAnimatedLabel_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NumericAnimatedLabel_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		98645DCB019BC4621E39B625F47A3EAC /* Pods-NumericAnimatedLabel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NumericAnimatedLabel_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9C71585961CFA4EDED596897BE61827A /* Pods-NumericAnimatedLabel_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NumericAnimatedLabel_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -117,7 +117,6 @@
 				35D7C1426FB3517A9C5111D73CED583B /* NumericAnimatedLabel.swift */,
 				AA26AF6F68B7D228ADB25C00AFDCDE25 /* Support Files */,
 			);
-			name = NumericAnimatedLabel;
 			path = NumericAnimatedLabel;
 			sourceTree = "<group>";
 		};
@@ -454,7 +453,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -536,7 +535,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
